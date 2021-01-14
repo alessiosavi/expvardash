@@ -7,5 +7,5 @@ require (
 	github.com/elazarl/go-bindata-assetfs v0.0.0-20160822204401-9a6736ed45b4
 	github.com/gorilla/websocket v1.1.1-0.20170115210921-bb547c6c5c59
 	github.com/pkg/errors v0.8.1
-	github.com/stretchr/testify v1.4.0
+	github.com/stretchr/testify v1.7.0
 )
